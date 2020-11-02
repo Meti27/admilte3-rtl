@@ -1,6 +1,6 @@
 ## Admilte3-rtl
 
-Admin Lte 3.0.5 RtlVersion
+Admin Lte 3.0.5 Clean RtlVersion
 
 ### Instructions : 
 

@@ -14,4 +14,4 @@ just add `rtl.css` and `bootstrap-rtl-min.css` in end of `<head>` tag.
 </head>
 ```
 
-![AdminLteRtl](https://www.dropbox.com/s/mko8sb1d5rle9pk/adminlteRtl.png?dl=1)
+![adminlte](https://github.com/Meti27/admilte3-rtl/blob/main/adminlteRtl.png?raw=true)
